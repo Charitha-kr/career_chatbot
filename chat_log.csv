@@ -1,0 +1,66 @@
+User Input,Chatbot Response,Timestamp
+hello,Hi there,2024-09-10 01:21:51
+weather ,"I'm sorry, I cannot provide real-time weather information.",2024-09-10 01:22:20
+How do I create a budget,"To make a budget, start by tracking your income and expenses. Then, allocate your income towards essential expenses like rent, food, and bills. Next, allocate some of your income towards savings and debt repayment. Finally, allocate the remainder of your income towards discretionary expenses like entertainment and hobbies.",2024-09-10 01:22:30
+Today is a nice weather,"I'm sorry, I cannot provide real-time weather information.",2024-10-03 08:29:52
+How's the weather today,"I'm sorry, I cannot provide real-time weather information.",2024-10-03 08:30:47
+Hi,Hello,2024-10-03 08:30:56
+hi,Hello,2024-12-02 11:23:10
+how are you,Hello,2024-12-02 11:23:29
+thanks,No problem,2024-12-02 11:38:52
+about,"Mindfulness techniques include meditation, deep breathing, body scanning, and mindful eating.",2024-12-02 11:39:10
+what can you do,I am a chatbot,2024-12-02 11:39:48
+help,I'm here to help. What's the problem?,2024-12-02 11:40:05
+what is credit score,You can check your credit score for free on several websites such as Credit Karma and Credit Sesame.,2024-12-02 11:40:54
+tell me a joke,Did you hear about the mathematician whoâ€™s afraid of negative numbers? Heâ€™ll stop at nothing to avoid them!,2024-12-02 11:41:34
+i am confused,"Remember, every stream has opportunities. Focus on what excites you the most.",2024-12-02 11:47:42
+i am confused in life,"Remember, every stream has opportunities. Focus on what excites you the most.",2024-12-02 11:47:53
+hi,Hello,2024-12-02 11:52:11
+streams,"After 10th, popular options include Science, Commerce, and Arts.",2024-12-02 11:52:16
+arts,"Arts is great for those passionate about creativity, humanities, and social sciences.",2024-12-02 11:52:22
+Careers in Arts stream?,"Arts stream offers careers in literature, journalism, psychology, law, and design.",2024-12-02 11:53:11
+law,"You can specialize in criminal, civil, corporate, or environmental law.",2024-12-02 11:57:55
+engineering,"Engineering offers careers in fields like mechanical, civil, electrical, computer science, and aerospace.",2024-12-02 11:58:08
+computer science,"Science is ideal if you are interested in fields like technology, medicine, or research.",2024-12-02 11:58:18
+computer science,"Computer Science offers careers in software development, computer programming, systems architecture, and database management.",2024-12-02 12:00:07
+database,"Careers include data scientist, business intelligence analyst, and machine learning engineer.",2024-12-02 12:00:23
+machine learning,"ML has applications in image recognition, natural language processing, recommendation systems, and predictive analytics.",2024-12-02 12:00:37
+hi,Hello,2024-12-02 12:04:21
+what is your name,"Careers include data scientist, business intelligence analyst, and machine learning engineer.",2024-12-02 12:04:29
+what is your name,Data Science involves analyzing data to derive insights and build predictive models.,2024-12-02 12:05:01
+hi,Hey,2024-12-02 12:05:41
+hwlp,"Careers include data scientist, business intelligence analyst, and machine learning engineer.",2024-12-02 12:05:52
+help,"Sure, what do you need help with?",2024-12-02 12:05:57
+engineering,Engineers solve real-world problems using technology and innovation.,2024-12-02 12:07:51
+ai,"Artificial Intelligence involves careers like AI engineer, machine learning specialist, and AI researcher.",2024-12-02 12:10:48
+what is your name,My name is Chatbot.,2024-12-02 12:12:28
+what should i call you,You can call me CaSu Career Support Chatbot.,2024-12-02 12:13:55
+hi,Hello,2024-12-02 12:15:13
+how are you,"I'm fine, thank you",2024-12-02 12:15:26
+hello,Hi there,2024-12-02 12:15:38
+can you help,I'm here to help. What's the problem?,2024-12-02 12:15:52
+confusion in career,"Careers include data scientist, business intelligence analyst, and machine learning engineer.",2024-12-02 12:16:07
+careers after 10th,"You can opt for Science (PCM/PCB), Commerce, Arts, or even vocational courses.",2024-12-02 12:16:27
+science,"Careers include data scientist, business intelligence analyst, and machine learning engineer.",2024-12-02 12:16:40
+pcb,"Itâ€™s a growing field ideal for those who enjoy working with numbers, algorithms, and data-driven solutions.",2024-12-02 12:16:54
+pcm,Data Science involves analyzing data to derive insights and build predictive models.,2024-12-02 12:17:04
+science field,Data Science involves analyzing data to derive insights and build predictive models.,2024-12-02 12:17:24
+science,"Science is ideal if you are interested in fields like technology, medicine, or research.",2024-12-02 12:18:08
+hi,Hello,2024-12-04 19:52:44
+science,"Science is ideal if you are interested in fields like technology, medicine, or research.",2024-12-04 19:54:52
+10th,"You can opt for Science (PCM/PCB), Commerce, Arts, or even vocational courses.",2024-12-04 19:55:16
+after 10th,"You can opt for Science (PCM/PCB), Commerce, Arts, or even vocational courses.",2024-12-04 19:55:52
+vocational courses,Vocational courses are perfect for gaining practical skills in a specific field.,2024-12-04 19:56:17
+what should i do after my 10th,My name is CaSu (Career Support Chatbot).,2024-12-04 23:47:01
+After 10th grade career?,"You can opt for Science (PCM/PCB), Commerce, Arts, or even vocational courses.",2024-12-04 23:47:41
+hi,Hello,2024-12-07 06:44:19
+how can you help me,How can I assist you?,2024-12-07 06:44:43
+after 10,"You can choose from Science, Commerce, and Arts streams.",2024-12-07 06:46:29
+"""Give me advice on choosing a career"",","Choosing a career depends on your interests, skills, and long-term goals. Let me know your area of interest, and I can guide you.",2024-12-07 06:55:35
+science,"Science is ideal if you are interested in fields like technology, medicine, or research.",2024-12-07 06:55:55
+medicine,Medicine is ideal for those passionate about saving lives and healthcare.,2024-12-07 06:56:17
+"Can you help me choose a career?""",Explore fields that align with your passion and strengths. I can suggest career paths based on your preferences.,2024-12-07 06:56:46
+What career options do I have?,Explore fields that align with your passion and strengths. I can suggest career paths based on your preferences.,2024-12-07 06:57:26
+What career options do I have?,Explore fields that align with your passion and strengths. I can suggest career paths based on your preferences.,2024-12-07 06:58:01
+commerce,"You can become a CA, financial analyst, entrepreneur, or business manager.",2024-12-07 06:58:26
+CA?,"The CA course is challenging due to its vast syllabus, rigorous training, and demanding exams. Time management is crucial.",2024-12-07 07:02:00
